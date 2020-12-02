@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec9195b7-9029-4ae3-a87a-063a67600c7c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/arvutamine.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php_ÜL3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php_ÜL4.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1kVQ5crUSV2HFUMd0VBHaR4QaM6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../xampp/htdocs/php_alused" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="Push.Settings">
+    <force-push-targets>
+      <force-push-target remote-path="origin" branch="main" />
+    </force-push-targets>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec9195b7-9029-4ae3-a87a-063a67600c7c" name="Default Changelist" comment="" />
+      <created>1605783097158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605783097158</updated>
+      <workItem from="1605783098850" duration="1851000" />
+      <workItem from="1606201907852" duration="16818000" />
+    </task>
+    <task id="LOCAL-00001" summary="Ülesanne 1">
+      <created>1606378989430</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606378989430</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Ülesanne 2">
+      <created>1606382443821</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606382443821</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ülesanne 1" />
+    <MESSAGE value="Ülesanne 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ülesanne 2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="238" key="#Deployment" timestamp="1605786103657">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="552" y="238" key="#Deployment/0.0.1920.1160@0.0.1920.1160" timestamp="1605786103657" />
+    <state x="665" y="222" key="#PHP" timestamp="1605783322694">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="665" y="222" key="#PHP/0.0.1920.1160@0.0.1920.1160" timestamp="1605783322694" />
+    <state x="414" y="235" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605785969987">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="414" y="235" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1605785969987" />
+    <state x="690" y="326" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606383223305">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="690" y="326" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1606383223305" />
+    <state x="740" y="334" key="FileChooserDialogImpl" timestamp="1605786047315">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="740" y="334" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1605786047315" />
+    <state x="793" y="451" key="NewPhpFileDialog" timestamp="1606911441856">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="793" y="451" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606911441856" />
+    <state x="793" y="503" key="NewPhpFileDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1606383660754" />
+    <state x="552" y="299" key="Vcs.Push.Dialog.v2" timestamp="1606382455390">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="552" y="299" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1606382455390" />
+  </component>
+</project>
