@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec9195b7-9029-4ae3-a87a-063a67600c7c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/arvutamine.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_ÜL3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php_ÜL4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php_ÜL5.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +40,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1kVQ5crUSV2HFUMd0VBHaR4QaM6" />
@@ -73,7 +78,8 @@
       <option name="presentableId" value="Default" />
       <updated>1605783097158</updated>
       <workItem from="1605783098850" duration="1851000" />
-      <workItem from="1606201907852" duration="16818000" />
+      <workItem from="1606201907852" duration="22630000" />
+      <workItem from="1607502074983" duration="6547000" />
     </task>
     <task id="LOCAL-00001" summary="Ülesanne 1">
       <created>1606378989430</created>
@@ -89,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606382443821</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Ülesanne 4">
+      <created>1606919229931</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606919229931</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,9 +123,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ülesanne 1" />
     <MESSAGE value="Ülesanne 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ülesanne 2" />
+    <MESSAGE value="Ülesanne 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ülesanne 4" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="681" y="400" key="#CLI_Interpreters" timestamp="1607588930752">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="681" y="400" key="#CLI_Interpreters/0.0.1920.1160@0.0.1920.1160" timestamp="1607588930752" />
     <state x="552" y="238" key="#Deployment" timestamp="1605786103657">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -133,14 +151,19 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="740" y="334" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1605786047315" />
-    <state x="793" y="451" key="NewPhpFileDialog" timestamp="1606911441856">
+    <state x="793" y="451" key="NewPhpFileDialog" timestamp="1606919406659">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="793" y="451" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606911441856" />
+    <state x="793" y="451" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606919406659" />
     <state x="793" y="503" key="NewPhpFileDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1606383660754" />
-    <state x="552" y="299" key="Vcs.Push.Dialog.v2" timestamp="1606382455390">
+    <state x="461" y="224" key="SettingsEditor" timestamp="1607588931746">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
+    <state x="461" y="224" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1607588931746" />
+    <state x="552" y="268" key="Vcs.Push.Dialog.v2" timestamp="1606919233780">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606919233780" />
     <state x="552" y="299" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1606382455390" />
   </component>
 </project>
