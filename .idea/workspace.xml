@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec9195b7-9029-4ae3-a87a-063a67600c7c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/php_ÜL5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php_ÜL9.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +79,9 @@
       <updated>1605783097158</updated>
       <workItem from="1605783098850" duration="1851000" />
       <workItem from="1606201907852" duration="22630000" />
-      <workItem from="1607502074983" duration="6547000" />
+      <workItem from="1607502074983" duration="7435000" />
+      <workItem from="1610356842905" duration="58000" />
+      <workItem from="1610469641302" duration="18987000" />
     </task>
     <task id="LOCAL-00001" summary="Ülesanne 1">
       <created>1606378989430</created>
@@ -102,7 +104,35 @@
       <option name="project" value="LOCAL" />
       <updated>1606919229931</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Array">
+      <created>1607592994226</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607592994226</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Tsüklid">
+      <created>1610473529959</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610473529959</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Funktsioonid">
+      <created>1610481937006</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1610481937006</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Aja Funktsioonid">
+      <created>1610485674459</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1610485674459</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,17 +154,21 @@
     <MESSAGE value="Ülesanne 1" />
     <MESSAGE value="Ülesanne 2" />
     <MESSAGE value="Ülesanne 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ülesanne 4" />
+    <MESSAGE value="Array" />
+    <MESSAGE value="Tsüklid" />
+    <MESSAGE value="Funktsioonid" />
+    <MESSAGE value="Aja Funktsioonid" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aja Funktsioonid" />
   </component>
   <component name="WindowStateProjectService">
     <state x="681" y="400" key="#CLI_Interpreters" timestamp="1607588930752">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="681" y="400" key="#CLI_Interpreters/0.0.1920.1160@0.0.1920.1160" timestamp="1607588930752" />
-    <state x="552" y="238" key="#Deployment" timestamp="1605786103657">
+    <state x="552" y="238" key="#Deployment" timestamp="1610356898962">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="238" key="#Deployment/0.0.1920.1160@0.0.1920.1160" timestamp="1605786103657" />
+    <state x="552" y="238" key="#Deployment/0.0.1920.1160@0.0.1920.1160" timestamp="1610356898962" />
     <state x="665" y="222" key="#PHP" timestamp="1605783322694">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -151,19 +185,25 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="740" y="334" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1605786047315" />
-    <state x="793" y="451" key="NewPhpFileDialog" timestamp="1606919406659">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="529" y="295" key="NewPhpFileDialog" timestamp="1610486026989">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="529" y="295" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1610486026989" />
     <state x="793" y="451" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606919406659" />
     <state x="793" y="503" key="NewPhpFileDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1606383660754" />
     <state x="461" y="224" key="SettingsEditor" timestamp="1607588931746">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="461" y="224" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1607588931746" />
-    <state x="552" y="268" key="Vcs.Push.Dialog.v2" timestamp="1606919233780">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="368" y="120" key="Vcs.Push.Dialog.v2" timestamp="1610485678906">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="368" y="120" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1610485678906" />
     <state x="552" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606919233780" />
-    <state x="552" y="299" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1606382455390" />
+    <state x="552" y="299" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1607592997083" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1610475283378">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1610475283378" />
   </component>
 </project>
