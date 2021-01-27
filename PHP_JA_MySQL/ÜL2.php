@@ -62,18 +62,16 @@ echo '<h1>7. Otsing</h1>';
 
 
 if(isset($_POST['submit'])){
-    if(!empty($_POST['otsing'])) {
-        $selected = $_POST['otsing'];
+    if(!empty($_POST['otsi'])) {
+        $selected = $_POST['otsi'];
 
-        $artist = $_POST['artist'];
-        $album = $_POST['album'];
-        echo 'You have chosen: ' . $selected;
+        echo '<strong>You have chosen:</strong>' . $selected . '<br>';
 
-        $paring7 = "SELECT artist, album FROM albumid WHERE artist = '".$artist."' OR album = '".$album."'";
+        $paring7 = "SELECT * FROM albumid WHERE artist LIKE '".$selected."'";
         $valjund7 = mysqli_query($yhendus, $paring7);
-        while($rida = mysqli_fetch_array($valjund7)){
-            echo '<strong>Artist: '.$rida[0].'</strong><br>';
-            echo 'Album: '.$rida[1].'<br>';
+        while($rida = $rida = mysqli_fetch_assoc($valjund7)){
+            echo 'Otsingu tulemus: <br>';
+            echo $rida['artist'].' - '.$rida['album'].' - '.$rida['aasta'].'<br>';
         }
 
 
@@ -92,6 +90,6 @@ mysqli_close($yhendus);
         <option name="album" value="album">Album</option>
     </select>
     <label for="">Otsingusõna</label>
-    <input type="text">
+    <input type="text" name="otsi">
     <button name="submit" type="submit">Otsi</button>
 </form>
