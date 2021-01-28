@@ -74,7 +74,6 @@ if(isset($_POST['submit'])){
             echo $rida['artist'].' - '.$rida['album'].' - '.$rida['aasta'].'<br>';
         }
 
-
     } else {
         echo 'Please select the value.';
     }

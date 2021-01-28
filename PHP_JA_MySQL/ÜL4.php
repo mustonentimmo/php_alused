@@ -11,3 +11,5 @@ while($rida = mysqli_fetch_array($valjund)){
     echo 'Arvenumber: '.$rida[3].'<br>';
     echo 'Maksumus: '.$rida[4].'<br>';
 }
+
+?>
